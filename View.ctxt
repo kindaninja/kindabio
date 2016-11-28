@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=View()
+comment1.params=screen
+comment1.target=void\ setScreen(java.lang.String)
+comment2.params=screen
+comment2.target=void\ setSeats(java.lang.String)
+comment3.params=
+comment3.target=void\ quit()
+comment4.params=
+comment4.target=void\ openFile()
+comment5.params=
+comment5.target=void\ makeFrame()
+comment5.text=\n\ Create\ the\ Swing\ frame\ and\ its\ content.\n
+comment6.params=frame
+comment6.target=void\ makeMenuBar(javax.swing.JFrame)
+comment6.text=\n\ Create\ the\ main\ frame's\ menu\ bar.\n\ @param\ frame\ \ \ The\ frame\ that\ the\ menu\ bar\ should\ be\ added\ to.\n
+numComments=7

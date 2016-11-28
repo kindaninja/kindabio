@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=model\ view
+comment0.target=Controller(Model,\ View)
+comment1.params=
+comment1.target=void\ updateView()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

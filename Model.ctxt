@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Model()
+comment1.params=
+comment1.target=java.lang.String\ getScreen()
+comment2.params=
+comment2.target=java.lang.String\ getSeats()
+comment3.params=name
+comment3.target=void\ addMovie(java.lang.String)
+comment4.params=id
+comment4.target=java.lang.String\ getMovie(int)
+numComments=5

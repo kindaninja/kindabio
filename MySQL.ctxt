@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MySQL()
+comment1.params=statement
+comment1.target=java.sql.ResultSet\ executeQuery(java.lang.String)
+comment2.params=statement
+comment2.target=int\ executeCommand(java.lang.String)
+comment3.params=
+comment3.target=boolean\ closeConnection()
+comment4.params=
+comment4.target=MySQL\ getInstance()
+numComments=5
