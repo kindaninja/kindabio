@@ -5,7 +5,7 @@ public class Controller {
     private Model model;
     private View view;
     
-    private int momio = 3;
+    
     
     
     public Controller(Model model, View view) {
